@@ -1,4 +1,4 @@
-# Google Sheets Console Application
+# Google Sheets ClI
 
 This is a command-line application that allows users to interact with Google Sheets. Users can perform various actions such as loading data from sheets, creating new sheets, adding data, updating data, renaming sheets, deleting sheets, and deleting data from specific ranges.
 
